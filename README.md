@@ -3,4 +3,4 @@
 You can replace 'selenium' with 'requests'.
 
 **Note: 'requests' may cause some errors if you don't open the web browser and visit the site.**<br>
-**Note: You need to download chrome-driver to run this script.**
+**Note: You need to download chrome-driver( or any other driver ) to run this script.**

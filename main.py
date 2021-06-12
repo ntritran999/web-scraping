@@ -6,10 +6,10 @@ import time
 
 
 opts = Options()
-opts.add_argument('--ignore-certificate-errors')        # Ignore some warnings, but it will not affect the script
+opts.add_argument('--ignore-certificate-errors')        # Ignore some warnings, but it will not affect the script.
 opts.add_argument('--ignore-ssl-errors')                # See more at https://stackoverflow.com/questions/37883759/errorssl-client-socket-openssl-cc1158-handshake-failed-with-chromedriver-chr
-opts.headless = True
-browser = Chrome('./chromedriver.exe', options=opts)    # Path to your chromedriver
+opts.headless = True # Set it to 'True' if you don't want the browser to pop up.
+browser = Chrome('./chromedriver.exe', options=opts)    # Path to your chromedriver.
 browser.get('https://www.frontendmentor.io/challenges')
 
 source = browser.page_source

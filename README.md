@@ -20,5 +20,5 @@
 
 ## Annoying Errors
 - There might be some ugly ssl errors while running. (which I've already handled in the code)
-- See more at [here](https://stackoverflow.com/questions/37883759/errorssl-client-socket-openssl-cc1158-handshake-failed-with-chromedriver-chr)
+- See more at [here](https://stackoverflow.com/questions/37883759/errorssl-client-socket-openssl-cc1158-handshake-failed-with-chromedriver-chr)<br>
 **Note: 'requests' may cause some errors if you don't open the web browser and visit the site.**<br>

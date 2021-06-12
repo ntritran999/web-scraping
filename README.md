@@ -5,6 +5,7 @@
 ## Table Of Contents
 - [Requirements](#requirements)
 - [Useful Resources](#useful-resources)
+- [Annoying Errors](#annoying-errors)
 
 ## Requirements:
 
@@ -17,4 +18,5 @@
 - [Tech with Tim - Selenium](https://m.youtube.com/watch?v=Xjv1sY630Uc)
 - [Freecodecamp - Web Scraping](https://m.youtube.com/watch?v=XVv6mJpFOb0)
 
+## Annoying Errors
 **Note: 'requests' may cause some errors if you don't open the web browser and visit the site.**<br>

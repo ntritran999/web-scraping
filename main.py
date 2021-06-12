@@ -6,8 +6,8 @@ import time
 
 
 opts = Options()
-opts.add_argument('--ignore-certificate-errors')        # Handle ssl errors.    
-opts.add_argument('--ignore-ssl-errors')                
+opts.add_argument('--ignore-certificate-errors')        # Handle certificate errors.    
+opts.add_argument('--ignore-ssl-errors')                # Handle ssl errors
 opts.headless = True                                    # Set it to 'True' if you don't want the browser to pop up.
 browser = Chrome('./chromedriver.exe', options=opts)    # Path to your chromedriver.
 browser.get('https://www.frontendmentor.io/challenges')

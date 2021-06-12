@@ -3,7 +3,7 @@
 - You can replace 'selenium' framework with 'requests' module.
 - This script may only scrape 1 page of the site :V .
 
-## Require List
+## Required List:
 ### For selenium users:
 - *Webdriver*: Can be chromedriver or anything else that you prefer.
 ### For requests users:

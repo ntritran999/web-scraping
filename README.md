@@ -1,4 +1,4 @@
-# A Script To Scrape Newbie Challenges On [Frontend Mentor](https://frontendmentor.io).
+# A Script To Scrape Newbie Challenges On [Frontend Mentor](https://frontendmentor.io/challenges).
 
 You can replace 'selenium' with 'requests'.
 
